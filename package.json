@@ -1,5 +1,5 @@
 {
-  "name": "@tomodo/cpr-tool",
+  "name": "cpr-generator",
   "version": "0.0.1",
   "type": "module",
   "repository": {
