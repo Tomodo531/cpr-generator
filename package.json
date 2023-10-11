@@ -1,0 +1,10 @@
+{
+  "name": "@phazonoverload/first-package",
+  "version": "0.0.1",
+  "type": "module",
+  "dependencies": {
+    "call-bind": "^1.0.2",
+    "inquirer": "^9.2.11"
+  },
+  "bin": "./bin.js"
+}
