@@ -1,7 +1,11 @@
 {
-  "name": "@phazonoverload/first-package",
+  "name": "@tomodo/cpr-tool",
   "version": "0.0.1",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tomodo531/cpr-generator"
+  },
   "dependencies": {
     "call-bind": "^1.0.2",
     "inquirer": "^9.2.11"
