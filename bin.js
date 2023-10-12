@@ -39,7 +39,7 @@ inquirer
     let sex = answers.sex;
     let count = answers.count;
 
-    let dayMonth = birthdate.substr(0, 3);
+    let dayMonth = birthdate.substr(0, 4);
     let fullYear = birthdate.substr(4, 7);
     let year = birthdate.substr(6, 7);
 
